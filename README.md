@@ -26,22 +26,60 @@ A personal productivity journaling web application built with React, featuring a
 
 ### Installation
 
-1. Clone the repository
+**1. Clone the repository**
+
 ```bash
-   git clone https://github.com/ekienandaa/daily-journal-app.git
-   cd daily-journal-app
+git clone https://github.com/ekienandaa/daily-journal-app.git
+cd daily-journal-app
 ```
 
-2. Install dependencies
+**2. Install dependencies**
+
 ```bash
-   npm install
+npm install
 ```
 
-3. Start the development server
+**3. Start the development server**
+
 ```bash
-   npm start
+npm start
 ```
 
-4. Open [http://localhost:3000](http://localhost:3000) in your browser
+**4. Open your browser**
+
+Navigate to [http://localhost:3000](http://localhost:3000)
 
 ## 📂 Project Structure
+
+```
+daily-journal-app/
+├── public/
+├── src/
+│   ├── components/
+│   ├── App.js
+│   └── index.js
+├── package.json
+└── README.md
+```
+
+## 💡 Motivation
+
+This project was built as a personal productivity tool — a simple, focused space for daily reflection in my native language. It also serves as a hands-on exploration of React fundamentals: component composition, state management, and responsive UI patterns.
+
+## 🔮 Future Improvements
+
+- Add tagging and search functionality
+- Implement export to PDF/Markdown
+- Add mood tracking and analytics
+- Cloud sync option
+
+## 👤 Author
+
+**Suan Ekie Nanda Putra**
+
+- GitHub: [@ekienandaa](https://github.com/ekienandaa)
+- LinkedIn: [linkedin.com/in/ekienanda](https://www.linkedin.com/in/ekienanda/)
+
+## 📄 License
+
+This project is open source and available under the [MIT License](LICENSE).
